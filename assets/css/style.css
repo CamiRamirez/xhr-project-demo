@@ -1,0 +1,12 @@
+.masthead{
+  background-color:gold;
+  text-align: center;
+  font-family: 'Open Sans';
+  height: 10em;
+}
+
+#submit-btn{
+  background-color: blue;
+  color: white;
+
+}
